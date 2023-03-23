@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/safvanp/react-app/static/css/main.d8b71a33.css",
+    "main.js": "/safvanp/react-app/static/js/main.8fd5e0c1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/safvanp/react-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/safvanp/react-app/index.html",
+    "main.d8b71a33.css.map": "/safvanp/react-app/static/css/main.d8b71a33.css.map",
+    "main.8fd5e0c1.js.map": "/safvanp/react-app/static/js/main.8fd5e0c1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/safvanp/react-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8b71a33.css",
+    "static/js/main.8fd5e0c1.js"
+  ]
+}
